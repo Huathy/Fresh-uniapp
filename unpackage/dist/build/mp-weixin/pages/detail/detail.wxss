@@ -1,0 +1,1 @@
+.content swiper{height:700rpx}.content swiper image{height:100%;width:100%}.box1{padding:10px}.box1 view{display:-webkit-box;display:-webkit-flex;display:flex;-webkit-box-pack:justify;-webkit-justify-content:space-between;justify-content:space-between;text-width:150px}.line{height:10rpx;width:750rpx;background-color:#eee}
